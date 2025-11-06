@@ -1,0 +1,2 @@
+# prolog
+code 1
